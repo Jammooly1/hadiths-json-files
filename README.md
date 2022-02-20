@@ -1,5 +1,5 @@
 # hadiths-json-files
-JSON files of entire collections of hadith. Each collection of hadiths in one JSON file each. 
+JSON files of entire collections of hadith. Each collection of hadiths in one JSON file each. Still in-progress
 
 ## Details
 Here is an example:
