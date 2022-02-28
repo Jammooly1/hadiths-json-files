@@ -1,5 +1,5 @@
 # hadiths-json-files
-JSON files of entire collections of hadith. Each collection of hadiths in one JSON file each. Still in-progress
+JSON files of entire collections of hadith. Each collection of hadiths in one JSON file each.
 
 ## Details
 Here is an example:
@@ -33,3 +33,8 @@ Here is an example:
 }
 ```
 As you can see above in, the data is pretty straightforward. The beginning of the JSON file gives the details of the collection of hadiths, then it has a list of all_books which in turn, each book contains a list of hadiths.
+
+In the 4 canonical books of hadith that aren't titled with Sahih contain a grade attribute to say whether a hadith is sahih, daif, hasan, etc.
+
+## Extra
+If there are any errors or mistakes found, please raise an issue :)
